@@ -1,8 +1,3 @@
-/*
- * File: modifiers.c
- * Auth: Brennan D Baraban
- */
-
 #include "main.h"
 
 unsigned int print_width(buffer_t *output, unsigned int printed,

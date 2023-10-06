@@ -1,9 +1,3 @@
-/*
- * File: handlers.c
- * Auth: Brennan D Baraban
- *       Michael Klein
- */
-
 #include "main.h"
 
 unsigned char handle_flags(const char *flag, char *index);

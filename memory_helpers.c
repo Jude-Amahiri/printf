@@ -1,8 +1,3 @@
-/*
- * File: memory_helpers.c
- * Auth: Brennan D Baraban
- */
-
 #include "main.h"
 
 unsigned int _memcpy(buffer_t *output, const char *src, unsigned int n);
